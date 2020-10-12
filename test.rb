@@ -1,3 +1,4 @@
 require 'fileutils'
 
-FileUtils.mv('adsasd'))
+# bug fixed
+FileUtils.mv('adsasd')
